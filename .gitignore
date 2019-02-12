@@ -1,0 +1,9 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+
+# User-specific stuff:
+.idea/
+venv/
+
+#Ignora os arquivos compilados
+
+Diversos/*
